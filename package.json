@@ -1,0 +1,27 @@
+{
+    "name": "nightfish-light",
+    "displayName": "nightfish Light",
+    "description": "A clear light theme",
+    "version": "1.0.0",
+    "publisher": "tempora",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tempora/nightfish"
+    },
+
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nightfish",
+                "uiTheme": "vs",
+                "path": "./themes/nightfish-color-theme.json"
+            }
+        ]
+    }
+}
