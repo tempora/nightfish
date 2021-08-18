@@ -1,13 +1,14 @@
-# nightfish
-### Nightfish is a light colorscheme
-Nightfish is a colorscheme designed for visual clarity.
-Inspired by the pastel colors of gruvbox.
+<h1 align="center">nightfish</h1>
+<h3 align="center">Nightfish is a colorscheme designed for visual clarity, inspired by the pastel colors of gruvbox</h3>
+<br>
 
-<div align="centre">
-<h3>Colors</h3>
-<img src="preview/nightfish.png">
+<h3 align="center">Colors</h3>
+<p align="center">
+<img width="350" src="preview/nightfish.png">
+</p>
 <br> <br>
 
-### VSCode
-![VSCode](preview/previewVSCODE.png)
-</div>
+<h3 align="center">VSCode</h3>
+<p align="center">
+<img src="preview/previewVSCODE.png">
+</p>
