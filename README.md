@@ -4,7 +4,7 @@
 
 <h3 align="center">Colors</h3>
 <p align="center">
-<img width="350" src="preview/nightfish.png">
+<img width="450" src="preview/nightfish.png">
 </p>
 <br> <br>
 
